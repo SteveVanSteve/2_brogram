@@ -21,7 +21,7 @@ export default function Hero() {
                 </div>
                 <div className="rule-item">
                     <p><b>Weight*</b></p>
-                    <p>Select the maxium weight that allows you to complete the set with good</p>
+                    <p>Select the maxium weight that allows you to complete the set with good form</p>
                 </div>
             </ul>
             <small>*The first and second set should be at 75% and 85% of your working weight used for the last two sets</small>
